@@ -30,40 +30,35 @@ The analysis reveals that job dissatisfaction, particularly around work-life bal
 # Insights Deep Dive
 ### Job Satisfaction:
 
-* A total of 699 employees were surveyed for job satisfaction, with a majority (215 employees) rating their satisfaction as a 3 on a scale of 1 to 4. This suggests that most employees feel moderately satisfied with their jobs, though they are not fully content.
+*  A total of 699 employees were surveyed for job satisfaction, with 215 employees rating their satisfaction as 3, which indicates a moderately low satisfaction level. This suggests a potential area for improvement in employee morale..
   
-*  Employees who rated their job satisfaction as 1 (the lowest) or 2 make up 331 individuals, indicating a significant portion of the workforce may be at risk of attrition due to dissatisfaction. These employees represent nearly half of the total workforce surveyed.
+*  Of the 699 employees, 153 gave a rating of 4, indicating the lowest level of satisfaction. This group represents a critical concern, as they may be at higher risk of leaving due to dissatisfaction.
   
-*  Only 153 employees gave a job satisfaction rating of 4 (the highest), showing that highly satisfied employees make up a relatively small portion of the company. This highlights a potential area for improvement in boosting overall employee satisfaction.
+*  The highest satisfaction rating (1) was given by 195 employees, showing that only a small portion of the workforce is highly satisfied with their jobs, which indicates that overall job satisfaction across the company is skewed towards the lower end of the scale.
   
 ![Sample Image](job_rating.png)
 
 
 
-### Category 2:
+### Work-Life Balance:
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* A total of 699 employees were surveyed regarding their work-life balance, with 377 employees rating it as 3. This rating suggests that a significant portion of the workforce perceives their work-life balance as below average. This moderate dissatisfaction indicates a potential area for improvement to enhance employee satisfaction and retention.
   
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* Out of the 699 employees, 81 rated their work-life balance as 4, indicating the lowest level of satisfaction. This group represents a critical concern, as their dissatisfaction with work-life balance may correlate with higher attrition risk. Addressing their concerns could be crucial in reducing turnover rates.
   
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* The highest rating for work-life balance (1) was given by 74 employees, showing that only a small portion of the workforce perceives their work-life balance as excellent. This skew towards lower ratings suggests that overall work-life balance across the company is perceived as suboptimal, and improving it could contribute to better employee morale and potentially reduce attrition.
   
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 
-[Visualization specific to category 2]
+![Sample Image](work_life_rating.png)
 
 
-### Category 3:
+### Career Growth Patterns::
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* The moderate positive correlation (0.62) suggests that employees who have been at the company for a longer period are also likely to have gone longer without a promotion. This pattern may indicate that promotions are not consistently tied to tenure, possibly leading to frustration for long-serving employees who feel overlooked for advancement opportunities.
   
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* As the correlation shows a tendency for longer tenure to coincide with longer gaps since the last promotion, this could signal a risk of career stagnation. Employees may perceive limited growth opportunities as they stay longer with the company, which could contribute to dissatisfaction and increased attrition rates, particularly for those who feel their efforts are not recognized or rewarded.
 
-[Visualization specific to category 3]
+![Sample Image](promotion.png)
 
 
 ### Category 4:
