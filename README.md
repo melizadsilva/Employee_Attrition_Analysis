@@ -7,52 +7,35 @@ Employee attrition is a significant concern for any company. Understanding the r
 
 Insights and recommendations are provided on the following key areas:
 
-- **Category 1:** 
-- **Category 2:** 
-- **Category 3:** 
-- **Category 4:** 
-
-The SQL queries used to inspect and clean the data for this analysis can be found here [link].
-
-Targed SQL queries regarding various business questions can be found here [link].
-
-An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
+- **Job Satisfaction**:  Analysis of employee satisfaction levels and their impact on attrition rates.
+- **Work-Life Balance Evaluation:**  Assessment of work-life balance ratings and their influence on employee well-being and retention.
+- **Career Growth Patterns:**  Examination of promotion timelines in relation to employee tenure and its effect on long-term engagement.
 
 
+The Jupyter Notebook used to inspect and clean the data for this analysis can be found here [link].
 
-# Data Structure & Initial Checks
-
-The companies main database structure as seen below consists of four tables: table1, table2, table3, table4, with a total row count of X records. A description of each table is as follows:
-- **Table 2:**
-- **Table 3:**
-- **Table 4:**
-- **Table 5:**
-
-[Entity Relationship Diagram here]
-
+An interactive Tableau dashboard used to report and explore trends can be found here [link].
 
 
 # Executive Summary
 
 ### Overview of Findings
 
-Explain the overarching findings, trends, and themes in 2-3 sentences here. This section should address the question: "If a stakeholder were to take away 3 main insights from your project, what are the most important things they should know?" You can put yourself in the shoes of a specific stakeholder - for example, a marketing manager or finance director - to think creatively about this section.
+The analysis reveals that job dissatisfaction, particularly around work-life balance and limited promotions, is linked to higher attrition. Employees with lower satisfaction ratings are more likely to leave, and most employees feel their work-life balance is moderate, not ideal. Additionally, a positive correlation between tenure and time since the last promotion suggests that long-serving employees may be experiencing slower career growth, which could further impact retention.
 
 [Visualization, including a graph of overall trends or snapshot of a dashboard]
 
 
 
 # Insights Deep Dive
-### Category 1:
+### Job Satisfaction:
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* A total of 699 employees were surveyed for job satisfaction, with a majority (215 employees) rating their satisfaction as a 3 on a scale of 1 to 4. This suggests that most employees feel moderately satisfied with their jobs, though they are not fully content.
   
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+*  Employees who rated their job satisfaction as 1 (the lowest) or 2 make up 331 individuals, indicating a significant portion of the workforce may be at risk of attrition due to dissatisfaction. These employees represent nearly half of the total workforce surveyed.
   
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+*  Only 153 employees gave a job satisfaction rating of 4 (the highest), showing that highly satisfied employees make up a relatively small portion of the company. This highlights a potential area for improvement in boosting overall employee satisfaction.
   
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-
 [Visualization specific to category 1]
 
 
