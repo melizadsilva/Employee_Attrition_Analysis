@@ -31,7 +31,7 @@ The analysis reveals that job dissatisfaction, particularly around work-life bal
 # Insights Deep Dive
 ### Job Satisfaction:
 
-*  A total of 699 employees were surveyed for job satisfaction, with 215 employees rating their satisfaction as 3, which indicates a moderately low satisfaction level. This suggests a potential area for improvement in employee morale..
+*  A total of 699 employees were surveyed for job satisfaction, with 215 employees rating their satisfaction as 3 (Rating Scale: The ratings are rated on a scale from 1 to 4, where:1 indicates the highest level of satisfaction, 4 represents the lowest level of satisfaction), which indicates a moderately low satisfaction level. This suggests a potential area for improvement in employee morale..
   
 *  Of the 699 employees, 153 gave a rating of 4, indicating the lowest level of satisfaction. This group represents a critical concern, as they may be at higher risk of leaving due to dissatisfaction.
   
