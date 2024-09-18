@@ -36,7 +36,8 @@ The analysis reveals that job dissatisfaction, particularly around work-life bal
   
 *  Only 153 employees gave a job satisfaction rating of 4 (the highest), showing that highly satisfied employees make up a relatively small portion of the company. This highlights a potential area for improvement in boosting overall employee satisfaction.
   
-[Visualization specific to category 1]
+![Sample Image](job_rating.png)
+
 
 
 ### Category 2:
