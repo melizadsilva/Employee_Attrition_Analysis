@@ -10,6 +10,7 @@ Insights and recommendations are provided on the following key areas:
 - **Job Satisfaction**:  Analysis of employee satisfaction levels and their impact on attrition rates.
 - **Work-Life Balance Evaluation:**  Assessment of work-life balance ratings and their influence on employee well-being and retention.
 - **Career Growth Patterns:**  Examination of promotion timelines in relation to employee tenure and its effect on long-term engagement.
+- **Job Level and Attrition**: Analysis of which Job levels experiences the highest attrition.
 
 
 The Jupyter Notebook used to inspect and clean the data for this analysis can be found here [link].
@@ -61,17 +62,15 @@ The analysis reveals that job dissatisfaction, particularly around work-life bal
 ![Sample Image](promotion.png)
 
 
-### Category 4:
+### Job Level and Attrition:
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* The majority of attrition occurs in Job Levels 1 and 2, with 250 and 276 employees leaving, respectively. This suggests that lower-level positions experience higher turnover, potentially due to limited growth opportunities or lower satisfaction.
   
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* Job Levels 3, 4, and 5 have significantly lower attrition rates, with only 96, 51, and 26 employees leaving, respectively. This could indicate that employees in higher-level positions are more likely to stay, possibly due to better compensation or job stability.
   
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+*  Combined, Job Levels 1 and 2 account for 75% of total attrition, signaling a need for targeted retention strategies focused on entry- and mid-level employees to address the disproportionately high turnover.
 
-[Visualization specific to category 4]
+![Sample Image](job_level.png)
 
 
 
