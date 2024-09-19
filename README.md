@@ -16,7 +16,7 @@ Insights and recommendations are provided on the following key areas:
 The Jupyter Notebook used to inspect and clean the data for this analysis can be found here [Link](https://github.com/melizadsilva/Employee_Attrition_Analysis/blob/main/EmpAttrition.ipynb)
 .
 
-An interactive Tableau dashboard used to report and explore trends can be found here [link].
+An interactive Tableau dashboard used to report and explore trends can be found here [Link](https://public.tableau.com/app/profile/meliza.d.silva/viz/EmployeeAttritionDashboard_17199971711560/Dashboard1)
 
 
 # Executive Summary
