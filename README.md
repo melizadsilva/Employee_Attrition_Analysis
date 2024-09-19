@@ -25,7 +25,7 @@ An interactive Tableau dashboard used to report and explore trends can be found 
 
 The analysis reveals that job dissatisfaction, particularly around work-life balance and limited promotions, is linked to higher attrition. Employees with lower satisfaction ratings are more likely to leave, and most employees feel their work-life balance is moderate, not ideal. Additionally, a positive correlation between tenure and time since the last promotion suggests that long-serving employees may be experiencing slower career growth, which could further impact retention.
 
-[Visualization, including a graph of overall trends or snapshot of a dashboard]
+![Sample Image](Dashboard.png)
 
 
 
@@ -89,13 +89,11 @@ Based on the insights and findings above, we would recommend the [stakeholder te
   
 * Ensure transparent communication regarding career progression, promotion criteria, and company policies to build trust and reduce dissatisfaction.
 
-#Assumptions and Caveats:
+# Assumptions and Caveats:
 Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
 
-* Assumption 1 (ex: missing country records were for customers based in the US, and were re-coded to be US citizens)
+* Some of the columns which were not relevant for the anlysis were excluded
 
-* Assumption 1 (ex: data for December 2021 was missing - this was imputed using a combination of historical trends and December 2020 data)
-
-* Assumption 1 (ex: because 3% of the refund date column contained non-sensical dates, these were excluded from the analysis)
+* because 3% of the Job satisfaction rating and environmental satisfaction column contained non-sensical values, these were excluded from the analysis)
 
 
