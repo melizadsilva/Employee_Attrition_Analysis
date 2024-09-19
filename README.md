@@ -13,7 +13,8 @@ Insights and recommendations are provided on the following key areas:
 - **Job Level and Attrition**: Analysis of which Job levels experiences the highest attrition.
 
 
-The Jupyter Notebook used to inspect and clean the data for this analysis can be found here [link].
+The Jupyter Notebook used to inspect and clean the data for this analysis can be found here [Link](https://www.google.com)
+.
 
 An interactive Tableau dashboard used to report and explore trends can be found here [link].
 
