@@ -89,4 +89,6 @@ Based on the insights and findings above, we would recommend the [stakeholder te
   
 * Ensure transparent communication regarding career progression, promotion criteria, and company policies to build trust and reduce dissatisfaction.
 
+# Assumptions and Caveats
+
 
